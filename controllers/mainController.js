@@ -53,7 +53,7 @@ app.controller('mainController', function(weatherAPI, dateCalculations, weatherC
       y+=1
     }
 
-    console.log(fiveDayForecast);
+
     $scope.threeDayForecast = threeDayForecast;
     $scope.fiveDayForecast = fiveDayForecast;
 
