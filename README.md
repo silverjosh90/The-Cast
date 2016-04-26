@@ -19,5 +19,5 @@ Welcome to The Cast. The cast is an app built to display the weather in Manchest
 ### Testing Instructions:
   * `npm install protractor -g`
   * from CL run `webdriver-manager update`
-  * from CL in test directory run `webdriver-manager start`
-  * navigate to the test folder and type `protractor conf.js`
+  * from CL navigate to the test folder and run `webdriver-manager start`
+  * from CL navigate to the test folder and type `protractor conf.js`
